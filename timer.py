@@ -1,5 +1,4 @@
 # Vasyl Herman <vasil.german@gmail.com>
-# Keep in mind the OCP
 import time
 
 start_in = 15

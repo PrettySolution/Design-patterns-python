@@ -1,5 +1,13 @@
 import copy
-
+# The prototype pattern:
+# In order to implement the prototype design pattern, you basically take a partially constructed object
+# or indeed you can have a fully initialized object and you store it somewhere
+# and then you deep copy the prototype whenever somebody wants to get an instance of it
+# you allow the user to customize the resulting instance or if you are using a factory to provide
+# a convenient API for actually using the protos in your code.
+# The idea is that you've already got an existing design and you want to name a copy of that design,
+# customize it somehow and then start using it. All you need is copy.deepcopy
+# When it's easier to copy an existing object to fully initialize a new one.
 
 class Address:
     def __init__(self, street_address, suite, city):
