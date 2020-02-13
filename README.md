@@ -3,7 +3,7 @@ Here I am making [demo videos](https://www.youtube.com/playlist?list=PLkR73Lvlj4
 and storing the source code of such videos. Enjoy!
 
 ##### 4_Singleton
-1. Singleton Allocator.
+1. [Singleton Allocator](./4_Singleton#singleton-allocator)
 
 
 ###### References
