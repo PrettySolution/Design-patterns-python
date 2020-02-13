@@ -1,4 +1,5 @@
 # Vasyl Herman <vasil.german@gmail.com>
+# Siglton alocator
 import time
 
 start_in = 15
