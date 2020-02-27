@@ -8,3 +8,4 @@ and storing the source code of such videos. Enjoy!
 
 ###### References
 1. Dmitri Nesteruk, Design patterns in Python [(online course)](https://www.udemy.com/course/design-patterns-python)
+1. +380954140885
